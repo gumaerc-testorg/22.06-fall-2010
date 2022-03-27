@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: f3d5c5ee-c643-a0cd-9479-1cd7b0a07fc9
 resourcetype: Document
 title: MIT22_06F10_quizsoln.pdf
 uid: eee64935-da4d-9ebf-167a-053c53b4f803
