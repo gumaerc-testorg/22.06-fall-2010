@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides questions and solutions for the mid-term quiz and
+  the final exam of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Mid-term quiz solutions
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit22_06f10_quiz))
+({{% resource_link 959f42e0-3195-b5cf-96e9-8a1e6f0e4407 "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit22_06f10_quizsoln))
+({{% resource_link eee64935-da4d-9ebf-167a-053c53b4f803 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -56,9 +58,9 @@ Final exam solutions
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit22_06f10_exam))
+({{% resource_link 7ec544c0-7ee0-e581-aa86-13a70c5c1f1e "PDF" %}})
 
-([PDF]({{< baseurl >}}/resources/mit22_06f10_examsoln))
+({{% resource_link e9a8c385-23dc-c14d-4762-4a46e9248473 "PDF" %}})
 
 
 {{< tdclose >}}
