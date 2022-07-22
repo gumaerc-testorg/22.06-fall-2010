@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section presents lecture materials presented during selected class
+  sessions along with assigned readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lectures and Readings
 uid: 3e44c0cd-e41a-0732-a2e2-bc525a0718ea
 ---
@@ -57,7 +61,7 @@ Nuclear Power Overview
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.5MB]({{< baseurl >}}/resources/mit22_06f10_lec01))
+({{% resource_link a45856c4-f2ac-cfbf-d1ba-a29ebf73e2ed "PDF - 6.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[RAK\] Chapter 1 (Covers LEC # 1, 2)
@@ -117,7 +121,7 @@ Reactor Physics Review (cont.)
 Thermal Parameters + Conservation Equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_06f10_lec05))
+({{% resource_link 8c2f8a9c-8366-ccd0-1551-57f1f238eb37 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[RAK\] Chapter 6
@@ -134,9 +138,9 @@ PWR and BWR Description
 {{< tdopen >}}
 
 
-([PDF - 2.1MB]({{< baseurl >}}/resources/mit22_06f10_lec06a))
+({{% resource_link 121722cb-9a63-f681-6e01-17b239ffb13a "PDF - 2.1MB" %}})
 
-([PDF - 6.5MB]({{< baseurl >}}/resources/mit22_06f10_lec06b))
+({{% resource_link 6f1f0d20-f03b-abac-ef32-b9a7ac9e3a33 "PDF - 6.5MB" %}})
 
 
 {{< tdclose >}}
@@ -153,7 +157,7 @@ PWR and BWR Description
 Other Reactor Designs (Heavy Water, Gas, Liquid Metal)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.1MB]({{< baseurl >}}/resources/mit22_06f10_lec07))
+({{% resource_link 5f0d2071-e195-a09f-1c44-8974629763d7 "PDF - 3.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[RAK\] Chapters 11 and 12
@@ -240,7 +244,7 @@ Two-Phase Coolant Flow (Parameters)
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB]({{< baseurl >}}/resources/mit22_06f10_lec13))
+({{% resource_link 2e8614e5-8cc5-69d9-6acf-f67df51d9aef "PDF - 1.9MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -315,7 +319,7 @@ Todreas, N. E. and Kazimi, M. _Nuclear Systems Volume I: Thermal Hydraulic Funda
 Nuclear Safety (Pillars + Thermal Limits + Protection System + ECCS + Severe Accidents + Containment)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5MB]({{< baseurl >}}/resources/mit22_06f10_lec18))
+({{% resource_link 02f07647-2155-6d05-b377-d45b6b25d881 "PDF - 2.5MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[RAK\] Chapters 13, 14, and 15
@@ -360,7 +364,7 @@ Structural Mechanics (Stress Limits)
 Dynamic Behavior of PWR
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_06f10_lec22))
+({{% resource_link cc6ee17b-e61e-ab2e-f37a-ca7af952a5f6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -375,7 +379,7 @@ Dynamic Behavior of PWR
 Dynamic Behavior of BWR
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit22_06f10_lec23))
+({{% resource_link 1b256d5f-7fb8-7488-f96c-012a47289769 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -390,7 +394,7 @@ Dynamic Behavior of BWR
 Advanced LWRs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.0MB]({{< baseurl >}}/resources/mit22_06f10_lec24))
+({{% resource_link 464590cd-5ea0-4a0f-d0d1-09df66714454 "PDF - 3.0MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

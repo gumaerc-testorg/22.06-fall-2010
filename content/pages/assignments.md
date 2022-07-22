@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the problem sets for the course with information
+  on topics and due dates.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: ce3de25a-7779-e980-2864-8a8c487baa6c
 ---
@@ -39,7 +44,7 @@ Nuclear power overview
 
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 1 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset01))
+Pset 1 ({{% resource_link d0671f85-2c9b-195a-1ca3-0f787825e5f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -84,7 +89,7 @@ Pset 1 (cont.)
 Reactor physics review (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 2 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset02))
+Pset 2 ({{% resource_link cec5d141-be20-dbd0-cb0a-c6c937aacc57 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 1 due
@@ -114,7 +119,7 @@ Pset 2 (cont.)
 PWR and BWR description
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 3 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset03))
+Pset 3 ({{% resource_link 0a865f0e-aa92-0eeb-e343-124312b47503 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 2 due
@@ -144,7 +149,7 @@ Pset 3 (cont.)
 Thermal analysis of fuel elements (introduction to fuels and heat conduction equation)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 4 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset04))
+Pset 4 ({{% resource_link 29b0202b-1530-0cd1-d55b-b80a48c24433 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 3 due
@@ -174,7 +179,7 @@ Pset 4 (cont.)
 Ideal gas and incompressible fluid models + single-phase coolant flow (pressure drop and natural circulation)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 5 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset05))
+Pset 5 ({{% resource_link 66711dd2-eba3-7320-3ed6-ac13c3c1b96a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 4 due
@@ -204,7 +209,7 @@ Pset 5 (cont.)
 Pure substance model two-phase coolant flow (parameters)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 6 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset06))
+Pset 6 ({{% resource_link 48ba67ce-6884-41bb-69fa-3e376327496e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 5 due
@@ -219,7 +224,7 @@ Pset 5 due
 Two-phase coolant flow and heat transfer (pressure drop + boiling)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 7 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset07))
+Pset 7 ({{% resource_link 0b59e284-8773-340c-5323-7159774e9b31 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 6 due
@@ -249,7 +254,7 @@ Pset 7 (cont.)
 Power cycles (Rankine)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 8 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset08))
+Pset 8 ({{% resource_link 369ad279-82d6-f8e0-65bd-0bf33d86d647 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 7 due
@@ -279,7 +284,7 @@ Pset 8 (cont.)
 Nuclear safety (pillars + thermal limits + protection system + ECCS + severe accidents + containment)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 9 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset09))
+Pset 9 ({{% resource_link 16bea7b8-9823-3ce6-997a-386d3f142dbc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 8 due
@@ -294,7 +299,7 @@ Pset 8 due
 Structural mechanics (elasticity fundamentals + thin-shell theory)
 {{< tdclose >}}
 {{< tdopen >}}
-Pset 10 ([PDF]({{< baseurl >}}/resources/mit22_06f10_pset10))
+Pset 10 ({{% resource_link 9f37d22c-732a-1d1a-7518-3cfa5b880634 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Pset 9 due
