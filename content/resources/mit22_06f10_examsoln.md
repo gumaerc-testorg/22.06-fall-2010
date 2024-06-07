@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains final exam solutions. '
 file: /courses/22-06-engineering-of-nuclear-systems-fall-2010/e9a8c38523dcc14d47624a46e9248473_MIT22_06F10_examsoln.pdf
+file_size: 157466
 file_type: application/pdf
 learning_resource_types:
 - Exams
