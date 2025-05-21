@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains final exam. '
-file: /ol-ocw-studio-app/courses/22-06-engineering-of-nuclear-systems-fall-2010/7ec544c07ee0e581aa8613a70c5c1f1e_MIT22_06F10_exam.pdf
+file: /courses/22-06-engineering-of-nuclear-systems-fall-2010/7ec544c07ee0e581aa8613a70c5c1f1e_MIT22_06F10_exam.pdf
 file_size: 103318
 file_type: application/pdf
 learning_resource_types:
