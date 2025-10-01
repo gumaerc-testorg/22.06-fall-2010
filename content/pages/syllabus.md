@@ -28,7 +28,7 @@ Knief, R. A. _Nuclear Engineering: Theory and Technology of Commercial Nuclear P
 
 ### Useful References
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262080811) Henry, A. F. [_Nuclear-Reactor Analysis_](https://mitpress.mit.edu/9780262080811). Cambridge, MA: MIT Press, 1975. ISBN: 9780262080811.
+{{% resource_link "49f6f07a-16f7-405e-b4f7-5942aa86a94f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Henry, A. F. {{% resource_link "49f6f07a-16f7-405e-b4f7-5942aa86a94f" "_Nuclear-Reactor Analysis_" %}}. Cambridge, MA: MIT Press, 1975. ISBN: 9780262080811.
 
 Duderstadt, J. J., and L. J. Hamilton. _Nuclear Reactor Analysis_. Hoboken, NJ: John Wiley & Sons, Inc., 1976. ISBN: 9780471223634.
 
@@ -95,7 +95,7 @@ Final exam
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "10bd67db-1b74-48af-9606-5259ff6d1dbd" "Writing and Communication Center" %}} and the {{% resource_link "7af272ea-5392-461e-8f9b-7c60a82bbe53" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
